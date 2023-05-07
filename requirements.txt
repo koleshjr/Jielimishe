@@ -9,3 +9,4 @@ pinecone-client
 pypdf
 cohere
 pdfplumber
+streamlit
